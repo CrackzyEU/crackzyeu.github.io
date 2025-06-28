@@ -1,0 +1,10 @@
+{
+  "latest_version": "1.0",
+  "mandatory_versions": ["0.1"],
+  "changelog": {
+    "1.0": "version checker.",
+    "0.2": "Added Allatori detection.",
+    "0.1": "Initial release."
+  },
+  "download_url": "https://github.com/YOUR_USERNAME/RatSniffer/releases/latest"
+}
